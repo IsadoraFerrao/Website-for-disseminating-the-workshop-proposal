@@ -1,155 +1,135 @@
 .navbar-default .navbar-toggle .icon-bar{
-	background-color: #fdcb03;
+	background-color: #FFD700		;
 }
 .main-menu .navbar-default .navbar-nav .active a{
-	color: #fdcb03;
+	color: #FFD700		;
 }
 .main-menu nav li a::after {
-    background: #fdcb03;
+    background: #FFD700		;
 }
 .typer{
-	color: #fdcb03 !important;
+	color: #FFD700		 !important;
 }
 .banner-text h2{
-	color: #fdcb03
+	color: #FFD700		
 }
 .book-btn a{
-	background: #fdcb03;
-	border: 3px solid #fdcb03;
+	background:#FFC125;
+	border: 3px solid #FFC125;
 }
 .book-btn a:hover{
-	border: 3px solid #ffdb4c;
+	border: 3px solid #F3E231;
 }
 .hvr-underline-from-center::before{
-	background:#ffdb4c;
+	background:#1F8D06;
 }
 .block-title{
-	color: #fdcb03;
+	color: #FFD700		;
 }
 .item-type-zoom .item-hover:hover::before{
-	background: rgba(253, 203, 3, 0.5);
+	background: rgba(231, 91, 30, 0.5);
 }
 .special-box .owl-theme .owl-controls .owl-page.active span{
-	background: #fdcb03;
+	background: #FFD700		;
 }
 .offer-item div h3{
-	color: #fdcb03;
+	color: #FFD700		;
 }
 .tab-menu .is-active{
-	background: #fdcb03;
+	background: #FFD700		;
 }
 .tab-menu .slick-arrow.slick-prev{
-	background: #fdcb03 url(../../images/back.png) no-repeat center;
+	background: #FFD700		 url(../../images/back.png) no-repeat center;
 	background-position: 2px 4px;
 }
 .tab-menu .slick-arrow.slick-next{
-	background: #fdcb03 url(../../images/next.png) no-repeat center;
-	background-position: 7px 4px;
-}
-.tab-menu .slick-arrow.slick-prev:hover{
-	background:#fdcb03 url(../../images/back_hover.png) no-repeat center;
-	background-position: 2px 4px;
-}
-.tab-menu .slick-arrow.slick-next:hover{
-	background:#fdcb03 url(../../images/next_hover.png) no-repeat center;
+	background: #FFD700		 url(../../images/next.png) no-repeat center;
 	background-position: 7px 4px;
 }
 
 .offer-item .offer-price{
-	border: 1px solid #fdcb03;
+	border: 1px solid #FFD700		;
 }
 .sf-team:hover .text-col{
-	background-color: #fdcb03;
+	background-color: #FFD700		;
 }
 .gal-item a::after{
-	background-color: rgba(253, 203, 3, 0.75);
+	background-color: rgba(231, 91, 30, 0.75);
 }
 .overlay i:hover{
-	border: 1px solid #fdcb03;
-	color: #fdcb03;
+	border: 1px solid #FFD700		;
+	color: #FFD700		;
 }
 .blog-btn-v a{
-	background: #fdcb03;
-	border: 3px solid #fdcb03;
-}
-.blog-btn-v a:hover{
-	border:3px solid #ffdb4c;
+	background: #FFB90F	;
+	border: 3px solid #EEAD0E;
 }
 .book-srv a{
-	background: #fdcb03;
-	border: 3px solid #fdcb03;
+	background: #FFD700		;
+	border: 3px solid #FFB90F		;
 }
-.book-srv a:hover{
-	border:3px solid #ffdb4c;
+
+.panel-pricing .panel-heading{
+	background: #FFD700		;
 }
+.panel-pricing{
+	border: 1px solid #FFD700		;
+}
+.panel-body p strong span{
+	color: #FFD700		;
+}
+.pricing-main .panel-footer a{
+	background: #FFD700		;
+	border: 3px solid #FFD700		;
+}
+.pricing-main .panel-footer a:hover{
+	border: 3px solid #f04900;
+}
+
 .reserve-book-btn button{
-	background: #fdcb03;
-	border: 3px solid #fdcb03;
+	background: #FFD700		;
+	border: 3px solid #FFD700		;
 }
 .reserve-book-btn button:hover a{
 	color:#000000;
 }
-.reserve-book-btn a:hover{
-	border:3px solid #ffdb4c;
-}
-.reserve-book-btn button:hover{
-	border:3px solid #ffdb4c;
-}
-
-
-.panel-pricing .panel-heading{
-	background: #fdcb03;
-}
-.panel-pricing{
-	border: 1px solid #fdcb03;
-}
-.panel-body p strong span{
-	color: #fdcb03;
-}
-.pricing-main .panel-footer a{
-	background: #fdcb03;
-	border: 3px solid #fdcb03;
-}
-.pricing-main .panel-footer a:hover{
-	border: 3px solid #ffdb4c;
-}
-
-
 .footer-news form a{
-	background: #fdcb03;
+	background: #F0E68C			;
 }
 .footer-news form a:hover{
-	border: 2px dotted #fdcb03;
+	border: 2px dotted #FFD700		;
 }
 .footer-box-a h3{
-	color: #fdcb03;
+	color: #FFD700		;
 }
 .footer-box-b h3{
-	color: #fdcb03;
+	color: #FFD700		;
 }
 .footer-box-c h3{
-	color: #fdcb03;
+	color: #FFD700		;
 }
 .footer-box-d h3{
-	color: #fdcb03;
+	color: #FFD700		;
 }
 .footer-box-c p a:hover{
-	color: #fdcb03;
+	color: #FFD700		;
 }
 .footer-box-b ul li a:hover{
-	color: #fdcb03;
+	color: #FFD700		;
 }
+
 .footer-box .socials-box a:hover .social-circle-border{
-	color: #fdcb03;
+	color: #FFD700		;
 }
+
 .footer-box-c p i{
-	color: #fdcb03;
+	color: #FFD700		;
 }
 
 .copyright-main{
-	background: #fdcb03;
+	background: #EEAD0E;
 }
 
 #color-panel a.panel-button:hover{
-	color: #fdcb03;		
+	color: #FFD700		;		
 }
